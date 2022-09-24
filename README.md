@@ -7,7 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KubaZary1&show_icons=true&theme=dark"/>
 
 Languages I would like to know: 
-- <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> kotlin
-- <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> lua
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 
 My favorite thing to do is to program websites in javaScript using Express
