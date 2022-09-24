@@ -1,4 +1,6 @@
 # @KubaZary1 profile.
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 My favorite programming languages are: 
 - javaScript <i class="devicon-javascript-plain colored"></i>
 - Python <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50>
