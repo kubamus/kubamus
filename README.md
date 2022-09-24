@@ -1,7 +1,7 @@
 # Hi I'm Kuba <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 ### My favorite programming languages:
-[![Javascript Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KubaZary1&show_icons=true&theme=dark"/>
