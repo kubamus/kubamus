@@ -9,6 +9,6 @@ My favorite programming languages are:
 
 Languages I would like to know: 
 - <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> kotlin
-- <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /> lua
+- <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /> lua
 
 My favorite thing to do is to program websites in javaScript using Express
