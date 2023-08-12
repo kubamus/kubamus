@@ -2,7 +2,7 @@
 
 ### My favorite programming languages and technologies that I use:
 <img src="https://img.shields.io/badge/javascript-blue?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/typescript-blue?style=flat&logo=typescript">
+<img src="https://img.shields.io/badge/typescript-black?style=flat&logo=typescript">
 <img src="https://img.shields.io/badge/react-blue?style=flat&logo=react">
 <img src="https://img.shields.io/badge/next.js-black?style=flat&logo=next.js">
 
