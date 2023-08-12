@@ -1,10 +1,10 @@
 # Hi I'm Kuba <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 ### My favorite programming languages and technologies that I use:
-[javascript] (https://img.shields.io/badge/javascript-blue?style=flat&logo=javascript)
-[typescript] (https://img.shields.io/badge/typescript-blue?style=flat&logo=typescript)
-[react] (https://img.shields.io/badge/react-blue?style=flat&logo=react)
-[next.js 13] (https://img.shields.io/badge/next.js-black?style=flat&logo=next.js)
+[javascript] (https://img.shields.io/badge/javascript-blue?style=flat&logo=javascript) &nbsp;
+[typescript] (https://img.shields.io/badge/typescript-blue?style=flat&logo=typescript) &nbsp;
+[react] (https://img.shields.io/badge/react-blue?style=flat&logo=react) &nbsp;
+[next.js 13] (https://img.shields.io/badge/next.js-black?style=flat&logo=next.js) &nbsp;
 
 
 
