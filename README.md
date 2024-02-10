@@ -8,7 +8,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KubaZary1&show_icons=true&theme=dark"/>
 
 Languages I would like to know: 
 
