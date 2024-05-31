@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,bun,next,prisma,typescript,javascript,mysql,postgresql" />
 
 ## 📄 Other technologies:
-<img src="https://skillicons.dev/icons?i=git,github,cpp,discordjs,npm,powershell,bash,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,cpp,discordjs,npm,powershell,bash,vscode" />
 
 #
 
